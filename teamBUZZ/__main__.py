@@ -1,4 +1,3 @@
-import requests
 from pyrogram import Client as Bot
 
 from teamBUZZ.config import API_HASH
