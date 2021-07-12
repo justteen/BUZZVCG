@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/c5ac64ba0d35133e4411c.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/justteen/RidwanMusicBot",
+  "repository": "https://github.com/justteen/BUZZVCG",
   "stack": "container",
   "buildpacks": [
    {
@@ -14,7 +14,7 @@
     "SESSION_NAME": {
       "description": "Pyrogram session string",
       "required": false,
-      "value": "BQAXuXxRDFfvjxgBo8adR5ckG5Z5f_ePfWbw4nyt6zVc-iB-JtnnjePGpruIQvl2qJIncLU1nuh4GglHL9rjdLIpxivttPuU231CSfjc2QXfI0iHbK_DociYKEb7VHqLCuZkluQN1jZCLJWs-ZCjJyKZl_Mj23yRNGPBef2m7AAQjdZ9dvbVNXypQ1vWLtQ15M3S8uGwuNsGsoF0QHne8NQOemc7-pwgsW3Xk09BrU77lfxdBtB8D3psv7C_USeY51T2720G3FaCBHWA90Wf0mycE4iGNOfJYBPCyxccqaEVTIqzz9yxs5nLcuLNzstc99tdRHhU6gh5nNbtQSNyxZKHY1YlSwA"
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather",
@@ -24,12 +24,12 @@
     "BOT_USERNAME": {
       "description": "Your bot's username without @",
       "required": false,
-      "value": "auvbuzzbot"
+      "value": ""
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": "🎼AUV-BUZZ MUSIC🎼"
+      "value": ""
     },
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
@@ -39,22 +39,22 @@
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "AUV-BUZZ-MUSIC V2.1"
+      "value": ""
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
       "required": false,
-      "value": "asistenmusik2"
+      "value": ""
     },
     "ARQ_API_KEY": {
       "description": "Get from @ARQRobot.",
       "required": false,
-      "value": "KRXFAP-LBYWXL-YYGUXQ-LMOZVH-ARQ"
+      "value": ""
     },    
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/fc13f2b446f8c68284d92.png"
+      "value": ""
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
