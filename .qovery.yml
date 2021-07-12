@@ -1,0 +1,11 @@
+---
+application:
+  name: "buzzplaybot"
+  project: "BUZZplayBot"
+  organization: "AutoBuzz"
+routers:
+- name: "main-buzzplaybot"
+  routes:
+  - application_name: "buzzplaybot"
+    paths:
+    - "/*"
