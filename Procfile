@@ -1,1 +1,1 @@
-worker: python3 -m VCPlayBot
+worker: python3 -m teamBUZZ
